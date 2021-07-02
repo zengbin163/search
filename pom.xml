@@ -21,7 +21,7 @@
 		<nacos-config-spring-boot.version>0.2.1
 		</nacos-config-spring-boot.version>
 		<kafka.version>2.5.0</kafka.version>
-		<elasticsearch.version>7.1.1</elasticsearch.version>
+		<elasticsearch.version>7.11.2</elasticsearch.version>
 		<springboot.version>2.3.0.RELEASE</springboot.version>
 		<mybatisplus.version>3.3.2</mybatisplus.version>
 	</properties>
